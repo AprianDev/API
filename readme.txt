@@ -9,6 +9,6 @@ http://localhost:3000/api/sign_up -> Sign UP Dengan body raw JSON (parameter nam
 http://localhost:3000/api/sign_in -> Sign IN Dengan body raw JSON (parameter username,password)
 
 nama db sama seperti yang diupload
-menggunakan coding API menggunakan node JS
+coding API menggunakan node JS
 untuk testing dapat langsung menggunakan 
 'node index'
